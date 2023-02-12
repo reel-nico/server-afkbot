@@ -1,7 +1,7 @@
 {
 	"private": true,
 	"type": "module",
-	"name": "atornes-afkbot",
+	"name": "server-afkbot",
 	"author": "JadeMin",
 	"version": "0.0.0",
 	"license": "GPL-3.0",
